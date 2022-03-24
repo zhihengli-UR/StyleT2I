@@ -22,10 +22,12 @@ NEC Laboratories America, University of Rochester
 The code will be added soon.
 
 
-### References
+## References
 
 [1] B. Li, X. Qi, T. Lukasiewicz, and P. Torr, “Controllable Text-to-Image Generation,” in NeurIPS, 2019.
+
 [2] S. Ruan et al., “DAE-GAN: Dynamic Aspect-aware GAN for Text-to-Image Synthesis,” in ICCV, 2021.
+
 [3] W. Xia, Y. Yang, J.-H. Xue, and B. Wu, “TediGAN: Text-Guided Diverse Face Image Generation and Manipulation,” in CVPR, 2021.
 
 
